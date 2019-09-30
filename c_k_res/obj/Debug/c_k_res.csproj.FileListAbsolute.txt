@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\c_k_res\c_k_res\bin\Debug\c_k_res.exe.config
+C:\Users\user\source\repos\c_k_res\c_k_res\bin\Debug\c_k_res.exe
+C:\Users\user\source\repos\c_k_res\c_k_res\bin\Debug\c_k_res.pdb
+C:\Users\user\source\repos\c_k_res\c_k_res\obj\Debug\c_k_res.csprojAssemblyReference.cache
+C:\Users\user\source\repos\c_k_res\c_k_res\obj\Debug\c_k_res.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c_k_res\c_k_res\obj\Debug\c_k_res.exe
+C:\Users\user\source\repos\c_k_res\c_k_res\obj\Debug\c_k_res.pdb
